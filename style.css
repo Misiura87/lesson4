@@ -1,3 +1,17 @@
 h1 {
     background-color: aqua;
+body {
+    background-color: cadetblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+
+}
+ol {
+    list-style-type: circle;
+    color: coral;
+}
+
+ul {
+    color: blueviolet;
+    font-size: 30px;
 }
